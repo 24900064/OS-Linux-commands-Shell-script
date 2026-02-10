@@ -2,6 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
+# Name : Pragatheeshraaj D
+# Reg.no : 212224230199
 
 # AIM:
 To practice Linux Commands and Shell Scripting
@@ -439,9 +441,11 @@ gzip backup.tar
 
 ls .gz
 ## OUTPUT
+<img width="1043" height="423" alt="image" src="https://github.com/user-attachments/assets/18ef3624-56ee-4b80-bb0f-e065c18f9230" />
 
 gunzip backup.tar.gz
 ## OUTPUT
+<img width="1043" height="442" alt="image" src="https://github.com/user-attachments/assets/2b00309c-063a-49c8-b238-d807e52c13d2" />
 
  
 # Shell Script
